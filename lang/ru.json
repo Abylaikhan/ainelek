@@ -1,0 +1,17 @@
+{
+    "Name": "Имя",
+    "Phone": "Телефон",
+    "Email": "Электронная почта",
+    "Company name": "Наименование компании",
+    "BIN": "БИН (ИИН)",
+    "Bank": "Банк",
+    "KBE": "КБе",
+    "BIK": "БИК",
+    "Account number": "Номер счета",
+    "Address": "Адрес",
+    "Password": "Пароль",
+    "Confirm Password": "Подтвердите пароль",
+    "New Password": "Новый пароль",
+    "Current Password": "Текущий пароль",
+    "Register": "Зарегистрироваться"
+}
