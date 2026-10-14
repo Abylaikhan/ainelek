@@ -28,19 +28,3 @@
         </li>
     </ul>
 </nav>
-<section class="padding-y-100 bg-cover bg-center jarallax" data-dark-overlay="7"
-         style="background: url(/img/1920/550.jpg) no-repeat">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 mx-auto text-center text-white">
-
-                <h5 class="font-size-md-40 mb-4">
-                    <?= Yii::t('main', 'School-Lyceum “SilkWay” accepts students in grades 1-11 for the new school year 2020-2021'); ?>
-
-                </h5>
-                <a href="/<?= $lang; ?>/site/request"
-                   class="btn btn-primary"><?= Yii::t('main', 'Registration for the reception'); ?></a>
-            </div>
-        </div> <!-- END row-->
-    </div> <!-- END container-->
-</section>
